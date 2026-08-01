@@ -1,7 +1,7 @@
 # cowsay-java
 Just type whatever you want :)
 
-Pre-Requisits:
+Prerequisites:
 - **JDK 8+ Installed**
 - **Git Installed**
 ---
