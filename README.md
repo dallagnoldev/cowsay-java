@@ -23,7 +23,7 @@ cd cowsay-java
 javac Main.java && java Main
 ```
 
-## Output Exemple
+## Output Example
 ```bash
 cowsay Hello World!
   ------------
